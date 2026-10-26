@@ -10,7 +10,7 @@ Use Java 25 and run:
 .\gradlew.bat build
 ```
 
-The mod jar is written to `build\libs\openglforcer-1.0.0.jar`.
+The mod jar is written to `build\libs\openglforcer-x.x.x.jar`.
 
 ## Test in Minecraft
 
