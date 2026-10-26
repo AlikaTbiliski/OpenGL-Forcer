@@ -1,3 +1,5 @@
+# Written using AI
+
 # OpenGL Forcer
 
 A client-side Fabric mod for Minecraft 26.3 that changes the OpenGL context version passed to SDL when Minecraft creates its OpenGL window.
