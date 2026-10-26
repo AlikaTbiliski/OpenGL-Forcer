@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "openglforcer",
+  "version": "1.0.0",
+  "name": "OpenGL Forcer",
+  "description": "Overrides the OpenGL context version requested by Minecraft at startup.",
+  "environment": "client",
+  "mixins": [
+    {
+      "config": "openglforcer.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~26.3",
+    "java": ">=25"
+  }
+}
